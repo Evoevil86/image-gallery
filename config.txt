@@ -2,6 +2,9 @@
 1bronze=3
 1silver=2
 1gold=1
+
+1zz=1
+
 [Combination_1_1]
 1bronze_1=bronze_1.png
 1bronze_2=bronze_2.png
