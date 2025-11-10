@@ -2,15 +2,3 @@
 1bronze=3
 1silver=2
 1gold=1
-
-1zz=0
-
-[Combination_1_1]
-1bronze_1=bronze_1.png
-1bronze_2=bronze_2.png
-1bronze_3=bronze_3.png
-[Combination_1_2]
-1silver_1=silver_1.png
-1silver_2=silver_2.png
-[Combination_1_3]
-1gold_1=gold.png
