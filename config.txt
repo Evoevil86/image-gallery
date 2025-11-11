@@ -1,4 +1,1 @@
 [Section_1_Counts]
-1bronze=12
-1silver=7
-1gold=3
